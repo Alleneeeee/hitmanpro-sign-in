@@ -5,11 +5,11 @@ How to Sign In Hitmanpro Account | Sign In Hitmanpro Account
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: not-working.png
+.. image:: click-sign-in.png
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/verizon-email-login
+   :target: https://aclogportal.com/verizon-email-signin
 
 Introduction
 ------------
